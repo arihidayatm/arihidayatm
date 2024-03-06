@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @arihidayatm
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning HTML, CSS and Javascript
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on you
 - 📫 How to reach me muhamadarihidayat@gmail.com
 
